@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.43",
-  "bundle": "medienserver-0.0.1-dev.43.bundle",
-  "sha256": "1eecbab34bebdaf51b203eb2ecffd1d647519a3f1ccda192d0685a30d8396f35",
-  "size": 2196136,
-  "notes": "Produktregeln (PRODUKT.md) und persönliches Aussehen im Sandkasten (#44)",
-  "publishedAt": "2026-11-10T18:01:53.349Z"
+  "version": "0.0.1-dev.44",
+  "bundle": "medienserver-0.0.1-dev.44.bundle",
+  "sha256": "f61c9ccad572c69b6b91820f5931f297b8598b5be7b09e796c57e4396a5eb1d7",
+  "size": 2198427,
+  "notes": "Dock beweglich (oben, links, unten) und Poster-Ecken je Bereich (#46)",
+  "publishedAt": "2026-11-10T18:37:01.303Z"
 }
