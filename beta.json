@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.39",
-  "bundle": "medienserver-0.0.1-dev.39.bundle",
-  "sha256": "7cc07f17d59cd0eefd83c75b8201d06389d15500f0005f3417494b7323c47d2a",
-  "size": 2193788,
-  "notes": "Hilfsprogramme der Prüfungen auf neuere Versionen (#32)",
-  "publishedAt": "2026-11-10T16:41:13.855Z"
+  "version": "0.0.1-dev.40",
+  "bundle": "medienserver-0.0.1-dev.40.bundle",
+  "sha256": "bf7f7ca827d065f6dcb372789c73c90a70bd429aa6fa96fbbefd33dcf782ab81",
+  "size": 2194306,
+  "notes": "Titelbereich füllt wieder die ganze Breite, Pfeile zum Blättern in allen Reihen (#40)",
+  "publishedAt": "2026-11-10T16:55:00.839Z"
 }
