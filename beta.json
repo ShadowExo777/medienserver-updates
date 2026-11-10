@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.62",
-  "bundle": "medienserver-0.0.1-dev.62.bundle",
-  "sha256": "db1c27657fe76926f9279cc3dc405d65499ae82e4c64f6db16d3b822a1db2cac",
-  "size": 2198598,
-  "notes": "STIL.md, PRODUKT.md: Inhalt verschiebt sich nie, nur das Dock oben hält Platz frei",
-  "publishedAt": "2026-11-10T19:51:40.925Z"
+  "version": "0.0.1-dev.73",
+  "bundle": "medienserver-0.0.1-dev.73.bundle",
+  "sha256": "0770b2a98d65fccb422c01b7c6bc808b224005f3e74056103cba4db14a26d0e4",
+  "size": 2200243,
+  "notes": "PRODUKT.md: letzter sichtbarer Bereich bleibt im Baukasten gesperrt",
+  "publishedAt": "2026-11-10T20:57:39.108Z"
 }
