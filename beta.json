@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.41",
-  "bundle": "medienserver-0.0.1-dev.41.bundle",
-  "sha256": "d83bc44e832ef0416dd2c6d8a2ba77b9373d9e784f73962420887ef19efabe04",
-  "size": 2194286,
-  "notes": "Eigener Stil als feste Regel, keine fremden Produktnamen mehr im Projekt (#42)",
-  "publishedAt": "2026-11-10T17:21:21.357Z"
+  "version": "0.0.1-dev.42",
+  "bundle": "medienserver-0.0.1-dev.42.bundle",
+  "sha256": "a44a9969d42e0aaed5ef5bc73e9aec8fcfbe608552cfbec478651d634505b89d",
+  "size": 2194588,
+  "notes": "Neuer Stil „Galerie“: hell und dunkel, Dock, Titelbereich als Karte (#43)",
+  "publishedAt": "2026-11-10T17:41:33.176Z"
 }
