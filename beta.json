@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.23",
-  "bundle": "medienserver-0.0.1-dev.23.bundle",
-  "sha256": "ab10eabb99cb9cf08ffb28093a4bbd069852987e94044cf3962b3c7d2a5df191",
-  "size": 156449,
-  "notes": "Ideen: Teststatus muss vor dem Verkauf durch Lizenzprüfung ersetzt werden (#20)",
-  "publishedAt": "2026-11-10T09:30:58.158Z"
+  "version": "0.0.1-dev.24",
+  "bundle": "medienserver-0.0.1-dev.24.bundle",
+  "sha256": "41cf4f93321f648551cb76009e92144299323876156320a5920e6a5bd1589c1b",
+  "size": 156435,
+  "notes": "Ideen: Kauf, Kundenkonto und Lizenzschlüssel als Entwurf (#21)",
+  "publishedAt": "2026-11-10T09:49:06.293Z"
 }
