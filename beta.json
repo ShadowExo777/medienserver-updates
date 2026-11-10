@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.35",
-  "bundle": "medienserver-0.0.1-dev.35.bundle",
-  "sha256": "3d53975ac59a42d6e8657f4ba8d203426be430539cc97b78a8d64858fef11822",
-  "size": 173199,
-  "notes": "Layouts und Metadaten als Tabellen statt JSON-Text (#35)",
-  "publishedAt": "2026-11-10T13:21:39.789Z"
+  "version": "0.0.1-dev.36",
+  "bundle": "medienserver-0.0.1-dev.36.bundle",
+  "sha256": "f9c121dd8a63817f1d00b417c30d49e52aafcc84a37d6b1f981f8a0bd538c722",
+  "size": 176646,
+  "notes": "Bilder aus der Metadaten-Quelle: Poster und breites Bild lokal speichern (#36)",
+  "publishedAt": "2026-11-10T15:29:33.230Z"
 }
