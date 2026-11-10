@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.38",
-  "bundle": "medienserver-0.0.1-dev.38.bundle",
-  "sha256": "56c19a767fca6664f3bd3d7bff9beef4094506f872de111830fbe27064d8bba5",
-  "size": 2193771,
-  "notes": "Bewegung und Browser-Tests: weiche Bilder, Ladegerüst, lebendiger Titelbereich (#38)",
-  "publishedAt": "2026-11-10T16:34:30.516Z"
+  "version": "0.0.1-dev.39",
+  "bundle": "medienserver-0.0.1-dev.39.bundle",
+  "sha256": "7cc07f17d59cd0eefd83c75b8201d06389d15500f0005f3417494b7323c47d2a",
+  "size": 2193788,
+  "notes": "Hilfsprogramme der Prüfungen auf neuere Versionen (#32)",
+  "publishedAt": "2026-11-10T16:41:13.855Z"
 }
