@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.32",
-  "bundle": "medienserver-0.0.1-dev.32.bundle",
-  "sha256": "d0b7cd7eb68811ea7936f0b322759e49c231099cc5e36af5c1183b7b7e9edb5a",
-  "size": 169900,
-  "notes": "Navigation und Rechte pro Bibliothek (#29)",
-  "publishedAt": "2026-11-10T11:44:31.554Z"
+  "version": "0.0.1-dev.33",
+  "bundle": "medienserver-0.0.1-dev.33.bundle",
+  "sha256": "612ce4a6fea91aad0e5fcd94ba03b2fcf84676eb204b922c7a70f85e5515b40e",
+  "size": 170378,
+  "notes": "Automatische Prüfungen mit eigenen Sicherheitsregeln",
+  "publishedAt": "2026-11-10T12:13:57.429Z"
 }
