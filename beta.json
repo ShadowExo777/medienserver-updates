@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.40",
-  "bundle": "medienserver-0.0.1-dev.40.bundle",
-  "sha256": "bf7f7ca827d065f6dcb372789c73c90a70bd429aa6fa96fbbefd33dcf782ab81",
-  "size": 2194306,
-  "notes": "Titelbereich füllt wieder die ganze Breite, Pfeile zum Blättern in allen Reihen (#40)",
-  "publishedAt": "2026-11-10T16:55:00.839Z"
+  "version": "0.0.1-dev.41",
+  "bundle": "medienserver-0.0.1-dev.41.bundle",
+  "sha256": "d83bc44e832ef0416dd2c6d8a2ba77b9373d9e784f73962420887ef19efabe04",
+  "size": 2194286,
+  "notes": "Eigener Stil als feste Regel, keine fremden Produktnamen mehr im Projekt (#42)",
+  "publishedAt": "2026-11-10T17:21:21.357Z"
 }
