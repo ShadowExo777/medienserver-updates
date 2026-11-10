@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.58",
-  "bundle": "medienserver-0.0.1-dev.58.bundle",
-  "sha256": "2a85bb6c8ae738cd6620c9042942b1b4976883bcdad86370dc0674a6ee3658eb",
-  "size": 2198611,
-  "notes": "Merge pull request #45 from ShadowExo777/work",
-  "publishedAt": "2026-11-10T19:20:46.503Z"
+  "version": "0.0.1-dev.62",
+  "bundle": "medienserver-0.0.1-dev.62.bundle",
+  "sha256": "db1c27657fe76926f9279cc3dc405d65499ae82e4c64f6db16d3b822a1db2cac",
+  "size": 2198598,
+  "notes": "STIL.md, PRODUKT.md: Inhalt verschiebt sich nie, nur das Dock oben hält Platz frei",
+  "publishedAt": "2026-11-10T19:51:40.925Z"
 }
