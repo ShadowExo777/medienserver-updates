@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.29",
-  "bundle": "medienserver-0.0.1-dev.29.bundle",
-  "sha256": "2b1dbf98d36742add7614446ad4aeb83caec35513892217723574690c623e256",
-  "size": 158427,
-  "notes": "Reine Textänderungen erzeugen keinen Zwischenstand mehr (#26)",
-  "publishedAt": "2026-11-10T10:25:26.888Z"
+  "version": "0.0.1-dev.30",
+  "bundle": "medienserver-0.0.1-dev.30.bundle",
+  "sha256": "2bd343bd7fe35943c2861f4a64f59e452072535006979c17458b9db4097b18b4",
+  "size": 160475,
+  "notes": "Gemischte Bibliotheken: Filme und Serien im selben Ordner erkennen (#27)",
+  "publishedAt": "2026-11-10T10:40:12.229Z"
 }
