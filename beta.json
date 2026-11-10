@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.25",
-  "bundle": "medienserver-0.0.1-dev.25.bundle",
-  "sha256": "818bab00943edb99b058341abebc1b2dd83cb3dad0f3ba670ce0c126e547c313",
-  "size": 156433,
-  "notes": "Ideen: Schutz vor Umgehung der Lizenz (#22)",
-  "publishedAt": "2026-11-10T09:58:57.819Z"
+  "version": "0.0.1-dev.26",
+  "bundle": "medienserver-0.0.1-dev.26.bundle",
+  "sha256": "5391f068cb5613f8bb91a8612022816e0ea619f6eb08e2b3c4e09385af098fa1",
+  "size": 156518,
+  "notes": "Update-Meldung: fehlende Kanaldatei wird verständlich erklärt (#23)",
+  "publishedAt": "2026-11-10T10:01:01.632Z"
 }
