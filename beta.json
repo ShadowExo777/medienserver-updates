@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.98",
-  "bundle": "medienserver-0.0.1-dev.98.bundle",
-  "sha256": "d1fa0c8249a796a9c2bb8ec95532b6c6fbe56bedf37aa8ae8a6f79471f393aae",
-  "size": 2206775,
-  "notes": "Dokumente: Effekt beim Wechsel hell/dunkel, Idee für ein Intro mit Augen",
-  "publishedAt": "2026-11-10T22:44:33.513Z"
+  "version": "0.0.1-dev.105",
+  "bundle": "medienserver-0.0.1-dev.105.bundle",
+  "sha256": "6afc67c8e6b05150efcedc5427e795f3a6803d0bbd6a19dd389cdd89c9e896b4",
+  "size": 2207365,
+  "notes": "Merge pull request #57 from ShadowExo777/feature/einstellungsbereiche",
+  "publishedAt": "2026-11-10T22:45:17.965Z"
 }
