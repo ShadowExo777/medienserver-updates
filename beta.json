@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.52",
-  "bundle": "medienserver-0.0.1-dev.52.bundle",
-  "sha256": "af164c8b84c4ab50721b9cbe2554269077baece88106c5010f79e19da2d5d39a",
-  "size": 2198606,
-  "notes": "PRODUKT.md: Dock beweglich um Ziehen mit Zeiger und Überlagerung beim Ausklappen ergänzt (vom Besitzer gewünscht)",
-  "publishedAt": "2026-11-10T18:53:02.335Z"
+  "version": "0.0.1-dev.56",
+  "bundle": "medienserver-0.0.1-dev.56.bundle",
+  "sha256": "71a2ee131872ff121eeef828ef0dd77f53a3f581f993f07cc3f738aff453adae",
+  "size": 2198612,
+  "notes": "PRUEFUNGEN.md: leise Ausgabe der Prüfung vor dem Commit und Ort des Volltexts beschrieben",
+  "publishedAt": "2026-11-10T19:13:17.678Z"
 }
