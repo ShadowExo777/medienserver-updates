@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.30",
-  "bundle": "medienserver-0.0.1-dev.30.bundle",
-  "sha256": "2bd343bd7fe35943c2861f4a64f59e452072535006979c17458b9db4097b18b4",
-  "size": 160475,
-  "notes": "Gemischte Bibliotheken: Filme und Serien im selben Ordner erkennen (#27)",
-  "publishedAt": "2026-11-10T10:40:12.229Z"
+  "version": "0.0.1-dev.31",
+  "bundle": "medienserver-0.0.1-dev.31.bundle",
+  "sha256": "4431c7ceb3b43f98c6530811044d7acafe4aa4a4b06a102a7a3b6c28ba99110c",
+  "size": 167092,
+  "notes": "AniList als austauschbare Metadaten-Quelle (nur Testlauf) (#28)",
+  "publishedAt": "2026-11-10T11:12:53.177Z"
 }
