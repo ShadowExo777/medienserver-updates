@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.77",
-  "bundle": "medienserver-0.0.1-dev.77.bundle",
-  "sha256": "ffd73ea426c7b2ae36681dc55e977d77b65c0e58f1207710f665f6fdde014787",
-  "size": 2200234,
-  "notes": "AGENTS.md, PRUEFUNGEN.md: Regel für Zweignamen und Prüfung zweigname",
-  "publishedAt": "2026-11-10T21:24:47.673Z"
+  "version": "0.0.1-dev.79",
+  "bundle": "medienserver-0.0.1-dev.79.bundle",
+  "sha256": "afad8930b86ade189da978966bac89a0e39e2a2fd5fe94a40305a6237cfb521e",
+  "size": 2200262,
+  "notes": "home.e2e.js: Test für schmale Scrollbalken in Fenstern und keine bei Seite und Reihen",
+  "publishedAt": "2026-11-10T21:27:07.691Z"
 }
