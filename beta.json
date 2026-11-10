@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.44",
-  "bundle": "medienserver-0.0.1-dev.44.bundle",
-  "sha256": "f61c9ccad572c69b6b91820f5931f297b8598b5be7b09e796c57e4396a5eb1d7",
-  "size": 2198427,
-  "notes": "Dock beweglich (oben, links, unten) und Poster-Ecken je Bereich (#46)",
-  "publishedAt": "2026-11-10T18:37:01.303Z"
+  "version": "0.0.1-dev.52",
+  "bundle": "medienserver-0.0.1-dev.52.bundle",
+  "sha256": "af164c8b84c4ab50721b9cbe2554269077baece88106c5010f79e19da2d5d39a",
+  "size": 2198606,
+  "notes": "PRODUKT.md: Dock beweglich um Ziehen mit Zeiger und Überlagerung beim Ausklappen ergänzt (vom Besitzer gewünscht)",
+  "publishedAt": "2026-11-10T18:53:02.335Z"
 }
