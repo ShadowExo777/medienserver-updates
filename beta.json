@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.34",
-  "bundle": "medienserver-0.0.1-dev.34.bundle",
-  "sha256": "5dc3f60b6c7ddb68dadd092c98a4373ff19adefcb8b4b483886234c55a9ee9bd",
-  "size": 171591,
-  "notes": "Metadaten-Quelle pro Bibliothek, Liste der Titel ohne Treffer (#34)",
-  "publishedAt": "2026-11-10T12:57:33.525Z"
+  "version": "0.0.1-dev.35",
+  "bundle": "medienserver-0.0.1-dev.35.bundle",
+  "sha256": "3d53975ac59a42d6e8657f4ba8d203426be430539cc97b78a8d64858fef11822",
+  "size": 173199,
+  "notes": "Layouts und Metadaten als Tabellen statt JSON-Text (#35)",
+  "publishedAt": "2026-11-10T13:21:39.789Z"
 }
