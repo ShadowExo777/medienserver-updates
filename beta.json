@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.73",
-  "bundle": "medienserver-0.0.1-dev.73.bundle",
-  "sha256": "0770b2a98d65fccb422c01b7c6bc808b224005f3e74056103cba4db14a26d0e4",
-  "size": 2200243,
-  "notes": "PRODUKT.md: letzter sichtbarer Bereich bleibt im Baukasten gesperrt",
-  "publishedAt": "2026-11-10T20:57:39.108Z"
+  "version": "0.0.1-dev.77",
+  "bundle": "medienserver-0.0.1-dev.77.bundle",
+  "sha256": "ffd73ea426c7b2ae36681dc55e977d77b65c0e58f1207710f665f6fdde014787",
+  "size": 2200234,
+  "notes": "AGENTS.md, PRUEFUNGEN.md: Regel für Zweignamen und Prüfung zweigname",
+  "publishedAt": "2026-11-10T21:24:47.673Z"
 }
