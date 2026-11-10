@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.37",
-  "bundle": "medienserver-0.0.1-dev.37.bundle",
-  "sha256": "ace5df295897468ccc9cd7502a4abd46a7d76f09f4be6bbe36e59e3a84717574",
-  "size": 2192396,
-  "notes": "Untertitel aus Dateien neben dem Video: erkennen, wählen, anzeigen (#37)",
-  "publishedAt": "2026-11-10T15:46:54.071Z"
+  "version": "0.0.1-dev.38",
+  "bundle": "medienserver-0.0.1-dev.38.bundle",
+  "sha256": "56c19a767fca6664f3bd3d7bff9beef4094506f872de111830fbe27064d8bba5",
+  "size": 2193771,
+  "notes": "Bewegung und Browser-Tests: weiche Bilder, Ladegerüst, lebendiger Titelbereich (#38)",
+  "publishedAt": "2026-11-10T16:34:30.516Z"
 }
