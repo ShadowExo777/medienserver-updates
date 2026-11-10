@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.31",
-  "bundle": "medienserver-0.0.1-dev.31.bundle",
-  "sha256": "4431c7ceb3b43f98c6530811044d7acafe4aa4a4b06a102a7a3b6c28ba99110c",
-  "size": 167092,
-  "notes": "AniList als austauschbare Metadaten-Quelle (nur Testlauf) (#28)",
-  "publishedAt": "2026-11-10T11:12:53.177Z"
+  "version": "0.0.1-dev.32",
+  "bundle": "medienserver-0.0.1-dev.32.bundle",
+  "sha256": "d0b7cd7eb68811ea7936f0b322759e49c231099cc5e36af5c1183b7b7e9edb5a",
+  "size": 169900,
+  "notes": "Navigation und Rechte pro Bibliothek (#29)",
+  "publishedAt": "2026-11-10T11:44:31.554Z"
 }
