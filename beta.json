@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "channel": "beta",
+  "version": "0.0.1-dev.22",
+  "bundle": "medienserver-0.0.1-dev.22.bundle",
+  "sha256": "e7800624f1aa015c0973acf9f3cd07f695d0a04fa32e60c0e7d7bf9ffd8c3da9",
+  "size": 156455,
+  "notes": "Öffentlichen Update-Schlüssel eintragen (#19)",
+  "publishedAt": "2026-11-10T09:10:50.131Z"
+}
