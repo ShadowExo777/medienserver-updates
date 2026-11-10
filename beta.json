@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.27",
-  "bundle": "medienserver-0.0.1-dev.27.bundle",
-  "sha256": "f4531b84e11589d9a1dba04d7090446994fb68ecc016c12be1cd84dde6454777",
-  "size": 156529,
-  "notes": "Eigener Benutzer für den Medienserver empfohlen, Protokoll nennt die Fehlerursache (#24)",
-  "publishedAt": "2026-11-10T10:07:01.827Z"
+  "version": "0.0.1-dev.28",
+  "bundle": "medienserver-0.0.1-dev.28.bundle",
+  "sha256": "b8925919414a9ce5d26a30479eb545b9b901e5123a305f1a55619f0447273302",
+  "size": 158420,
+  "notes": "Weiterschauen: Fortschritt pro Benutzer, Baustein auf der Startseite (#25)",
+  "publishedAt": "2026-11-10T10:16:38.149Z"
 }
