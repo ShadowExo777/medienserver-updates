@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.42",
-  "bundle": "medienserver-0.0.1-dev.42.bundle",
-  "sha256": "a44a9969d42e0aaed5ef5bc73e9aec8fcfbe608552cfbec478651d634505b89d",
-  "size": 2194588,
-  "notes": "Neuer Stil „Galerie“: hell und dunkel, Dock, Titelbereich als Karte (#43)",
-  "publishedAt": "2026-11-10T17:41:33.176Z"
+  "version": "0.0.1-dev.43",
+  "bundle": "medienserver-0.0.1-dev.43.bundle",
+  "sha256": "1eecbab34bebdaf51b203eb2ecffd1d647519a3f1ccda192d0685a30d8396f35",
+  "size": 2196136,
+  "notes": "Produktregeln (PRODUKT.md) und persönliches Aussehen im Sandkasten (#44)",
+  "publishedAt": "2026-11-10T18:01:53.349Z"
 }
