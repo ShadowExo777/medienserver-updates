@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.89",
-  "bundle": "medienserver-0.0.1-dev.89.bundle",
-  "sha256": "91d526f5dec116a855bc877e34c5fdf77974397b8889d70d78e6294b42d68404",
-  "size": 2202011,
-  "notes": "feature.css: „Als Nächstes“ auch auf hellen Bildern lesbar",
-  "publishedAt": "2026-11-10T21:40:28.635Z"
+  "version": "0.0.1-dev.98",
+  "bundle": "medienserver-0.0.1-dev.98.bundle",
+  "sha256": "d1fa0c8249a796a9c2bb8ec95532b6c6fbe56bedf37aa8ae8a6f79471f393aae",
+  "size": 2206775,
+  "notes": "Dokumente: Effekt beim Wechsel hell/dunkel, Idee für ein Intro mit Augen",
+  "publishedAt": "2026-11-10T22:44:33.513Z"
 }
