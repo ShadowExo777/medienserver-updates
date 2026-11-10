@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.56",
-  "bundle": "medienserver-0.0.1-dev.56.bundle",
-  "sha256": "71a2ee131872ff121eeef828ef0dd77f53a3f581f993f07cc3f738aff453adae",
-  "size": 2198612,
-  "notes": "PRUEFUNGEN.md: leise Ausgabe der Prüfung vor dem Commit und Ort des Volltexts beschrieben",
-  "publishedAt": "2026-11-10T19:13:17.678Z"
+  "version": "0.0.1-dev.58",
+  "bundle": "medienserver-0.0.1-dev.58.bundle",
+  "sha256": "2a85bb6c8ae738cd6620c9042942b1b4976883bcdad86370dc0674a6ee3658eb",
+  "size": 2198611,
+  "notes": "Merge pull request #45 from ShadowExo777/work",
+  "publishedAt": "2026-11-10T19:20:46.503Z"
 }
