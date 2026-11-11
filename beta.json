@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.113",
-  "bundle": "medienserver-0.0.1-dev.113.bundle",
-  "sha256": "294e4eb986591c6713cd0c407e6bcb12e237da6c6302a771e639f3bdcea41536",
-  "size": 2208288,
-  "notes": "Dokumente: Banner-Höhe, Notiz zum Nachbessern der Effekte beim Wechsel hell/dunkel",
-  "publishedAt": "2026-11-11T10:27:56.328Z"
+  "version": "0.0.1-dev.117",
+  "bundle": "medienserver-0.0.1-dev.117.bundle",
+  "sha256": "1a646a658d7367eae3ca50d06445a69be5c3c491587812d0ffb11691da02dcdd",
+  "size": 2208765,
+  "notes": "Dokumente: Entladung geht von der Kante des Docks aus",
+  "publishedAt": "2026-11-11T10:43:28.644Z"
 }
