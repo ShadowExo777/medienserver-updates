@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.175",
-  "bundle": "medienserver-0.0.1-dev.175.bundle",
-  "sha256": "a19bb24200ae3e41103eaaa6672f7ee88a8a2dfeef3bc519401bbcb0663dd5b8",
-  "size": 2244492,
-  "notes": "Prüfung: Testbrowser auch ohne Systempakete installieren, wenn der Paketserver nicht erreichbar ist",
-  "publishedAt": "2026-11-11T15:02:08.785Z"
+  "version": "0.0.1-dev.181",
+  "bundle": "medienserver-0.0.1-dev.181.bundle",
+  "sha256": "a85ee8d48945b0ee16d16ef68e6cdcb5dcf549fac02e1725b6d6b668d0218025",
+  "size": 2248322,
+  "notes": "Dokumentation: Suche mit der Lupe",
+  "publishedAt": "2026-11-11T15:18:58.610Z"
 }
