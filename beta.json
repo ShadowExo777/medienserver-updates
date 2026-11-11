@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.161",
-  "bundle": "medienserver-0.0.1-dev.161.bundle",
-  "sha256": "2b9ef2db2df6f996b3d08218e24bdf848aae1149b93f242a1ec0fdc3dab91b32",
-  "size": 2240825,
-  "notes": "Dokumentation: Fenster „Bearbeiten“, Serienseite rechts angeschnitten, Suche als nächster Schritt",
-  "publishedAt": "2026-11-11T13:29:01.621Z"
+  "version": "0.0.1-dev.165",
+  "bundle": "medienserver-0.0.1-dev.165.bundle",
+  "sha256": "759bd41fb04db413b42ad35681d93ef5781e62dc9aa3e1527ded895c2267c70d",
+  "size": 2240956,
+  "notes": "Stilregeln: Beschreibung auf der Serienseite, Staffeln im Fenster „Bearbeiten“ zuklappen",
+  "publishedAt": "2026-11-11T13:46:55.545Z"
 }
