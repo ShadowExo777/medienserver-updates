@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.140",
-  "bundle": "medienserver-0.0.1-dev.140.bundle",
-  "sha256": "76455e956a13e98a496d8f7a0911ba2329d8509ebb27625457784cb52b17870d",
-  "size": 2218684,
-  "notes": "Dokumente: Info-Dateien aus den Ordnern",
-  "publishedAt": "2026-11-11T12:06:31.725Z"
+  "version": "0.0.1-dev.148",
+  "bundle": "medienserver-0.0.1-dev.148.bundle",
+  "sha256": "a5e9403289bc7ecff2e9b4500198b2760114c85c7b3bf66cd48dff3c47fd85cd",
+  "size": 2224128,
+  "notes": "Dokumentation: Serienseite mit Baukasten",
+  "publishedAt": "2026-11-11T12:47:26.728Z"
 }
