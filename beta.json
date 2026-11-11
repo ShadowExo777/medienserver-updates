@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.148",
-  "bundle": "medienserver-0.0.1-dev.148.bundle",
-  "sha256": "a5e9403289bc7ecff2e9b4500198b2760114c85c7b3bf66cd48dff3c47fd85cd",
-  "size": 2224128,
-  "notes": "Dokumentation: Serienseite mit Baukasten",
-  "publishedAt": "2026-11-11T12:47:26.728Z"
+  "version": "0.0.1-dev.151",
+  "bundle": "medienserver-0.0.1-dev.151.bundle",
+  "sha256": "f03821430a79e52d0996bd65b9254c8db43a1741129aaa6956a42b97555dd5da",
+  "size": 2224052,
+  "notes": "Test der Einstellungen wieder in der ursprünglichen Schreibweise (versehentlich umformatiert)",
+  "publishedAt": "2026-11-11T13:02:25.389Z"
 }
