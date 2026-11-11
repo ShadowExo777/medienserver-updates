@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.207",
-  "bundle": "medienserver-0.0.1-dev.207.bundle",
-  "sha256": "7561ca32dbb25c5d61579410e7448451a3165a4716957cb4af24b9f9fe920c17",
-  "size": 2261421,
-  "notes": "Benutzerkonten: Zugriff je Konto einstellen",
-  "publishedAt": "2026-11-11T18:16:40.661Z"
+  "version": "0.0.1-dev.211",
+  "bundle": "medienserver-0.0.1-dev.211.bundle",
+  "sha256": "1f1a032e03cede804b5da4dbccb91644aba62eefeeaf822a19ba83302a8b6139",
+  "size": 2265659,
+  "notes": "Altersfreigabe in Konto, Informationen und Fenster Bearbeiten",
+  "publishedAt": "2026-11-11T19:08:52.163Z"
 }
