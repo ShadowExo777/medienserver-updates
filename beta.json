@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.123",
-  "bundle": "medienserver-0.0.1-dev.123.bundle",
-  "sha256": "c08b2285f787c1e2e2f6611aea1c6b06390dc0e96170c5c1ef6aa426b8d24cce",
-  "size": 2210961,
-  "notes": "Dokumente: TMDB im Testlauf, Premium nur über die zentrale Prüfstelle, Fahrplan und Ideen",
-  "publishedAt": "2026-11-11T11:15:13.383Z"
+  "version": "0.0.1-dev.132",
+  "bundle": "medienserver-0.0.1-dev.132.bundle",
+  "sha256": "b08e06d54f2402b67838e58506f607d06d79ba9d258f40c1a23c7139391c6004",
+  "size": 2214051,
+  "notes": "Dokumente: Logo statt Schriftzug, Bilder aus den Ordnern",
+  "publishedAt": "2026-11-11T11:47:24.908Z"
 }
