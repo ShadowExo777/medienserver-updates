@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.110",
-  "bundle": "medienserver-0.0.1-dev.110.bundle",
-  "sha256": "a3bdcddc088ad0b2f3e7cb4e3956592ba941235838e887a8cbe02814744401cf",
-  "size": 2208564,
-  "notes": "Dokumente: Zuschnitt per Umrissform statt Maskenbild",
-  "publishedAt": "2026-11-10T23:08:36.221Z"
+  "version": "0.0.1-dev.113",
+  "bundle": "medienserver-0.0.1-dev.113.bundle",
+  "sha256": "294e4eb986591c6713cd0c407e6bcb12e237da6c6302a771e639f3bdcea41536",
+  "size": 2208288,
+  "notes": "Dokumente: Banner-Höhe, Notiz zum Nachbessern der Effekte beim Wechsel hell/dunkel",
+  "publishedAt": "2026-11-11T10:27:56.328Z"
 }
