@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.204",
-  "bundle": "medienserver-0.0.1-dev.204.bundle",
-  "sha256": "2050f015c05bc529514486ab9d7aab2a25812922adf2f00e5a7e2280a775cd8f",
-  "size": 2260084,
-  "notes": "Bibliotheken: Fenster wartet auf die Quellen, Teil-Fehler beim Speichern",
-  "publishedAt": "2026-11-11T17:53:06.284Z"
+  "version": "0.0.1-dev.207",
+  "bundle": "medienserver-0.0.1-dev.207.bundle",
+  "sha256": "7561ca32dbb25c5d61579410e7448451a3165a4716957cb4af24b9f9fe920c17",
+  "size": 2261421,
+  "notes": "Benutzerkonten: Zugriff je Konto einstellen",
+  "publishedAt": "2026-11-11T18:16:40.661Z"
 }
