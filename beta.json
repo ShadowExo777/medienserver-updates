@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.232",
-  "bundle": "medienserver-0.0.1-dev.232.bundle",
-  "sha256": "02cb9e9c5f17af708b8d0820d539bfa9fb5ad516ec921d6e7bd3462841c565a1",
-  "size": 2275023,
-  "notes": "Sammlungen: Verweis nur auf vorhandene Sammlung, Karte robuster",
-  "publishedAt": "2026-11-11T23:37:57.683Z"
+  "version": "0.0.1-dev.234",
+  "bundle": "medienserver-0.0.1-dev.234.bundle",
+  "sha256": "1e3e4ddcccaa00846bd059bf98d44d9b8cfaaf4c30ef5a605bc36abf331b1d72",
+  "size": 2275444,
+  "notes": "Bibliotheken: Hinweis „Ordner auch in …“ auf der Karte und im Schritt Ordner",
+  "publishedAt": "2026-11-11T23:41:27.313Z"
 }
