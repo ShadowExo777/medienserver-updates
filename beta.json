@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.197",
-  "bundle": "medienserver-0.0.1-dev.197.bundle",
-  "sha256": "92a68bc7e7c0d0654e194c9fe3de1d669be4b077d1fc34bd2e4659f3e7427cba",
-  "size": 2249394,
-  "notes": "Dokumentation: Suchfeld zuklappen, Suche im Dock links",
-  "publishedAt": "2026-11-11T15:57:11.812Z"
+  "version": "0.0.1-dev.200",
+  "bundle": "medienserver-0.0.1-dev.200.bundle",
+  "sha256": "f57862aa4fd4562e2f37fdb76d223603c548a4ceadf7d779653ebf97a8eed4f2",
+  "size": 2254432,
+  "notes": "Mehrere Quellen: Einstellungen, Fenster Bearbeiten und Informationen",
+  "publishedAt": "2026-11-11T17:00:59.063Z"
 }
