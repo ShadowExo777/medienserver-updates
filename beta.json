@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.234",
-  "bundle": "medienserver-0.0.1-dev.234.bundle",
-  "sha256": "1e3e4ddcccaa00846bd059bf98d44d9b8cfaaf4c30ef5a605bc36abf331b1d72",
-  "size": 2275444,
-  "notes": "Bibliotheken: Hinweis „Ordner auch in …“ auf der Karte und im Schritt Ordner",
-  "publishedAt": "2026-11-11T23:41:27.313Z"
+  "version": "0.0.1-dev.236",
+  "bundle": "medienserver-0.0.1-dev.236.bundle",
+  "sha256": "5ae2afbc65c63d87eb9003dde6cb5e9a158a69df5b6c0cb7a325b4010a191045",
+  "size": 2275982,
+  "notes": "Zuordnen: Karte des Eintrags wie bei der Quelle; Bilder springen nicht mehr",
+  "publishedAt": "2026-11-11T23:44:36.009Z"
 }
