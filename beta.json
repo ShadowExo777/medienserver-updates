@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.227",
-  "bundle": "medienserver-0.0.1-dev.227.bundle",
-  "sha256": "b2bdc067dcb22695adfa298c5e6420803b1e055abf24e173a844ade19871030d",
-  "size": 2274567,
-  "notes": "Zuordnen: Anime-Nummer als Serie, sonst Film; Fokus bleibt beim Schloss",
-  "publishedAt": "2026-11-11T21:54:54.931Z"
+  "version": "0.0.1-dev.232",
+  "bundle": "medienserver-0.0.1-dev.232.bundle",
+  "sha256": "02cb9e9c5f17af708b8d0820d539bfa9fb5ad516ec921d6e7bd3462841c565a1",
+  "size": 2275023,
+  "notes": "Sammlungen: Verweis nur auf vorhandene Sammlung, Karte robuster",
+  "publishedAt": "2026-11-11T23:37:57.683Z"
 }
