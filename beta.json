@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.217",
-  "bundle": "medienserver-0.0.1-dev.217.bundle",
-  "sha256": "c48cbbb6da355999c95e75420c8e4529486ba6c8762ae7a9b906905c5fe86667",
-  "size": 2270543,
-  "notes": "Online-Infos in den Bibliotheken statt eigener Seite Metadaten",
-  "publishedAt": "2026-11-11T19:54:57.199Z"
+  "version": "0.0.1-dev.219",
+  "bundle": "medienserver-0.0.1-dev.219.bundle",
+  "sha256": "1a86e4ad6c245672c531c0168125afe4fba67a54f40e9e8df4f22010bbc4d355",
+  "size": 2270561,
+  "notes": "Merge pull request #41 from ShadowExo777/dependabot/npm_and_yarn/npm-a9f1b765a6",
+  "publishedAt": "2026-11-11T21:21:57.931Z"
 }
