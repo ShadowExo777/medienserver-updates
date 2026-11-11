@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.193",
-  "bundle": "medienserver-0.0.1-dev.193.bundle",
-  "sha256": "a3c7067a0b0be6c242cc198eba2e76bd8355cd02407aee8827940805af249933",
-  "size": 2249108,
-  "notes": "Dokumentation: Neu einlesen mit Rückfrage, „Infos und Bilder neu laden“",
-  "publishedAt": "2026-11-11T15:39:48.591Z"
+  "version": "0.0.1-dev.197",
+  "bundle": "medienserver-0.0.1-dev.197.bundle",
+  "sha256": "92a68bc7e7c0d0654e194c9fe3de1d669be4b077d1fc34bd2e4659f3e7427cba",
+  "size": 2249394,
+  "notes": "Dokumentation: Suchfeld zuklappen, Suche im Dock links",
+  "publishedAt": "2026-11-11T15:57:11.812Z"
 }
