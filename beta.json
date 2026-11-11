@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.117",
-  "bundle": "medienserver-0.0.1-dev.117.bundle",
-  "sha256": "1a646a658d7367eae3ca50d06445a69be5c3c491587812d0ffb11691da02dcdd",
-  "size": 2208765,
-  "notes": "Dokumente: Entladung geht von der Kante des Docks aus",
-  "publishedAt": "2026-11-11T10:43:28.644Z"
+  "version": "0.0.1-dev.123",
+  "bundle": "medienserver-0.0.1-dev.123.bundle",
+  "sha256": "c08b2285f787c1e2e2f6611aea1c6b06390dc0e96170c5c1ef6aa426b8d24cce",
+  "size": 2210961,
+  "notes": "Dokumente: TMDB im Testlauf, Premium nur über die zentrale Prüfstelle, Fahrplan und Ideen",
+  "publishedAt": "2026-11-11T11:15:13.383Z"
 }
