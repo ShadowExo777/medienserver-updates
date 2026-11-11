@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.219",
-  "bundle": "medienserver-0.0.1-dev.219.bundle",
-  "sha256": "1a86e4ad6c245672c531c0168125afe4fba67a54f40e9e8df4f22010bbc4d355",
-  "size": 2270561,
-  "notes": "Merge pull request #41 from ShadowExo777/dependabot/npm_and_yarn/npm-a9f1b765a6",
-  "publishedAt": "2026-11-11T21:21:57.931Z"
+  "version": "0.0.1-dev.222",
+  "bundle": "medienserver-0.0.1-dev.222.bundle",
+  "sha256": "809037de78064c9d2c6790faf8e9caf63ac79c40074bf8437bb8ac36292afa31",
+  "size": 2271863,
+  "notes": "Sammlungen im Dock: Oberfläche",
+  "publishedAt": "2026-11-11T21:35:45.128Z"
 }
