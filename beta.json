@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.185",
-  "bundle": "medienserver-0.0.1-dev.185.bundle",
-  "sha256": "83c26ba465905e075abc232b75b3b1b6fa8c13eb78df8a79340b234d92c1b576",
-  "size": 2248184,
-  "notes": "Dokumentation: ein Baustein „Informationen“",
-  "publishedAt": "2026-11-11T15:27:47.744Z"
+  "version": "0.0.1-dev.193",
+  "bundle": "medienserver-0.0.1-dev.193.bundle",
+  "sha256": "a3c7067a0b0be6c242cc198eba2e76bd8355cd02407aee8827940805af249933",
+  "size": 2249108,
+  "notes": "Dokumentation: Neu einlesen mit Rückfrage, „Infos und Bilder neu laden“",
+  "publishedAt": "2026-11-11T15:39:48.591Z"
 }
