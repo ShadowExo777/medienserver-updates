@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.200",
-  "bundle": "medienserver-0.0.1-dev.200.bundle",
-  "sha256": "f57862aa4fd4562e2f37fdb76d223603c548a4ceadf7d779653ebf97a8eed4f2",
-  "size": 2254432,
-  "notes": "Mehrere Quellen: Einstellungen, Fenster Bearbeiten und Informationen",
-  "publishedAt": "2026-11-11T17:00:59.063Z"
+  "version": "0.0.1-dev.204",
+  "bundle": "medienserver-0.0.1-dev.204.bundle",
+  "sha256": "2050f015c05bc529514486ab9d7aab2a25812922adf2f00e5a7e2280a775cd8f",
+  "size": 2260084,
+  "notes": "Bibliotheken: Fenster wartet auf die Quellen, Teil-Fehler beim Speichern",
+  "publishedAt": "2026-11-11T17:53:06.284Z"
 }
