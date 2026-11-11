@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.151",
-  "bundle": "medienserver-0.0.1-dev.151.bundle",
-  "sha256": "f03821430a79e52d0996bd65b9254c8db43a1741129aaa6956a42b97555dd5da",
-  "size": 2224052,
-  "notes": "Test der Einstellungen wieder in der ursprünglichen Schreibweise (versehentlich umformatiert)",
-  "publishedAt": "2026-11-11T13:02:25.389Z"
+  "version": "0.0.1-dev.161",
+  "bundle": "medienserver-0.0.1-dev.161.bundle",
+  "sha256": "2b9ef2db2df6f996b3d08218e24bdf848aae1149b93f242a1ec0fdc3dab91b32",
+  "size": 2240825,
+  "notes": "Dokumentation: Fenster „Bearbeiten“, Serienseite rechts angeschnitten, Suche als nächster Schritt",
+  "publishedAt": "2026-11-11T13:29:01.621Z"
 }
