@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.165",
-  "bundle": "medienserver-0.0.1-dev.165.bundle",
-  "sha256": "759bd41fb04db413b42ad35681d93ef5781e62dc9aa3e1527ded895c2267c70d",
-  "size": 2240956,
-  "notes": "Stilregeln: Beschreibung auf der Serienseite, Staffeln im Fenster „Bearbeiten“ zuklappen",
-  "publishedAt": "2026-11-11T13:46:55.545Z"
+  "version": "0.0.1-dev.175",
+  "bundle": "medienserver-0.0.1-dev.175.bundle",
+  "sha256": "a19bb24200ae3e41103eaaa6672f7ee88a8a2dfeef3bc519401bbcb0663dd5b8",
+  "size": 2244492,
+  "notes": "Prüfung: Testbrowser auch ohne Systempakete installieren, wenn der Paketserver nicht erreichbar ist",
+  "publishedAt": "2026-11-11T15:02:08.785Z"
 }
