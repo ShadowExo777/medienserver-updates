@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.211",
-  "bundle": "medienserver-0.0.1-dev.211.bundle",
-  "sha256": "1f1a032e03cede804b5da4dbccb91644aba62eefeeaf822a19ba83302a8b6139",
-  "size": 2265659,
-  "notes": "Altersfreigabe in Konto, Informationen und Fenster Bearbeiten",
-  "publishedAt": "2026-11-11T19:08:52.163Z"
+  "version": "0.0.1-dev.213",
+  "bundle": "medienserver-0.0.1-dev.213.bundle",
+  "sha256": "2ef90cfbc07992b295f7914d3925590c9068d9a1248f76e609ec094da40d05d1",
+  "size": 2267910,
+  "notes": "Bibliothek: Ansicht Sammlungen und einzelne Sammlung",
+  "publishedAt": "2026-11-11T19:22:53.131Z"
 }
