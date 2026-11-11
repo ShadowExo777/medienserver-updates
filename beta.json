@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.222",
-  "bundle": "medienserver-0.0.1-dev.222.bundle",
-  "sha256": "809037de78064c9d2c6790faf8e9caf63ac79c40074bf8437bb8ac36292afa31",
-  "size": 2271863,
-  "notes": "Sammlungen im Dock: Oberfläche",
-  "publishedAt": "2026-11-11T21:35:45.128Z"
+  "version": "0.0.1-dev.223",
+  "bundle": "medienserver-0.0.1-dev.223.bundle",
+  "sha256": "e390a4f01187de4a2a9604726e22c0904e133152f0d73fe0dc80fef1ed73c7df",
+  "size": 2272260,
+  "notes": "Abgleich: „wartend“ zählt nur noch unentschiedene Titel",
+  "publishedAt": "2026-11-11T21:37:00.086Z"
 }
