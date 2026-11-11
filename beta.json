@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.215",
-  "bundle": "medienserver-0.0.1-dev.215.bundle",
-  "sha256": "6d48415d94425b6e97548ce296d3648b8f51dd1065ed74076ad8a21ac51f9362",
-  "size": 2269509,
-  "notes": "Folgen-Angaben: schneller, sauberer Text, nach neuer Nummerierung nicht mehr gültig",
-  "publishedAt": "2026-11-11T19:41:35.485Z"
+  "version": "0.0.1-dev.217",
+  "bundle": "medienserver-0.0.1-dev.217.bundle",
+  "sha256": "c48cbbb6da355999c95e75420c8e4529486ba6c8762ae7a9b906905c5fe86667",
+  "size": 2270543,
+  "notes": "Online-Infos in den Bibliotheken statt eigener Seite Metadaten",
+  "publishedAt": "2026-11-11T19:54:57.199Z"
 }
