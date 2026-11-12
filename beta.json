@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.284",
-  "bundle": "medienserver-0.0.1-dev.284.bundle",
-  "sha256": "555c31e3f6e8bfbd6d459d68d6a10e2fddc482132f33e2baad37810294748c17",
-  "size": 2303481,
-  "notes": "Als Nächstes: Vollbild bleibt, Frage sperrt den Player, Zähler sauber",
-  "publishedAt": "2026-11-12T22:44:05.827Z"
+  "version": "0.0.1-dev.288",
+  "bundle": "medienserver-0.0.1-dev.288.bundle",
+  "sha256": "b26f3503313aa2851a3cf9c11c2a5420b2f2b79b2ca08f0a64d0cfdfe15fdccf",
+  "size": 2307062,
+  "notes": "Überspringen: Speicher robuster, keine Länge der alten Folge",
+  "publishedAt": "2026-11-12T22:56:41.193Z"
 }
