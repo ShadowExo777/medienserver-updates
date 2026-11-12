@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.244",
-  "bundle": "medienserver-0.0.1-dev.244.bundle",
-  "sha256": "e123437515b85ed47688f3b408b536448e14c503cdf831c3b44efd9ce30ccb57",
-  "size": 2287605,
-  "notes": "ffmpeg im Server erkennen und dem Besitzer anzeigen",
-  "publishedAt": "2026-11-12T01:36:22.330Z"
+  "version": "0.0.1-dev.250",
+  "bundle": "medienserver-0.0.1-dev.250.bundle",
+  "sha256": "9c6da1c628cfcecbbbce1c3469588ed75f984dfce3d213a010465fb7986b8372",
+  "size": 2294748,
+  "notes": "Player: weiterspielen nach Sprüngen, Erneut versuchen an der Startstelle",
+  "publishedAt": "2026-11-12T02:11:53.940Z"
 }
