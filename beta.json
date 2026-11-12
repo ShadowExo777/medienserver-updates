@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.288",
-  "bundle": "medienserver-0.0.1-dev.288.bundle",
-  "sha256": "b26f3503313aa2851a3cf9c11c2a5420b2f2b79b2ca08f0a64d0cfdfe15fdccf",
-  "size": 2307062,
-  "notes": "Überspringen: Speicher robuster, keine Länge der alten Folge",
-  "publishedAt": "2026-11-12T22:56:41.193Z"
+  "version": "0.0.1-dev.289",
+  "bundle": "medienserver-0.0.1-dev.289.bundle",
+  "sha256": "25ede22f0afd9cc97e20090b0ab843dd1b9afec973ccf5e5bcb6fb5809c09c62",
+  "size": 2307114,
+  "notes": "Player: ASS-Untertitel ohne transform hochrücken (Bild wurde schwarz)",
+  "publishedAt": "2026-11-12T23:23:24.290Z"
 }
