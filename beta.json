@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.265",
-  "bundle": "medienserver-0.0.1-dev.265.bundle",
-  "sha256": "cc0d3e7dc33126bd34d587de917dbdee6144bc6223c673f87977689003b7121f",
-  "size": 2299777,
-  "notes": "Player: veralteten Kommentar zum Melde-Banner angepasst",
-  "publishedAt": "2026-11-12T11:51:40.389Z"
+  "version": "0.0.1-dev.269",
+  "bundle": "medienserver-0.0.1-dev.269.bundle",
+  "sha256": "defbcbfb1701a6852d271fd0c7f3fa6f2c953ae105664a83c9d51fabadc92fe0",
+  "size": 2299754,
+  "notes": "Problem melden: am Handy bleibt „Senden“ sichtbar",
+  "publishedAt": "2026-11-12T16:53:39.827Z"
 }
