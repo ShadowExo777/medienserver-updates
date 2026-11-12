@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.275",
-  "bundle": "medienserver-0.0.1-dev.275.bundle",
-  "sha256": "27d3278cc864c3ed2dcae0adb446f7da92f355e95d41031942aa8dc79f22983f",
-  "size": 2299827,
-  "notes": "Doku: Zwischenspeicher der CI, Fehler beim lokalen Update-Knopf notiert",
-  "publishedAt": "2026-11-12T21:40:41.340Z"
+  "version": "0.0.1-dev.279",
+  "bundle": "medienserver-0.0.1-dev.279.bundle",
+  "sha256": "a7a841b3003ee80fc5e6f8943315d8fb5091f682ee2a8761bc34668199cc1f15",
+  "size": 2301328,
+  "notes": "Ton & Untertitel: Tipp mit Touch schließt, Fahne aus, Speichern nacheinander",
+  "publishedAt": "2026-11-12T21:57:16.170Z"
 }
