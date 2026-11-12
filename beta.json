@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.293",
-  "bundle": "medienserver-0.0.1-dev.293.bundle",
-  "sha256": "5625ffed7f9121e2f921650bfbf563a4c86cef8a637e08ccc1c4d01752af348d",
-  "size": 2311414,
-  "notes": "Filmseite: Serien mit Nummer nicht als Fassungen, weniger Anfragen",
-  "publishedAt": "2026-11-12T23:25:13.662Z"
+  "version": "0.0.1-dev.295",
+  "bundle": "medienserver-0.0.1-dev.295.bundle",
+  "sha256": "92d1219f1fb07e2d37cf5913a72bcd65bcb8418633989087e33ab84860bd336d",
+  "size": 2312149,
+  "notes": "Alle Folgen: Player in den Blick, Fokus, Staffel bleibt",
+  "publishedAt": "2026-11-12T23:46:06.225Z"
 }
