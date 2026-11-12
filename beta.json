@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.258",
-  "bundle": "medienserver-0.0.1-dev.258.bundle",
-  "sha256": "e13ebced3d80291b22099f5c7980af2164b7e4ea8d5577e201edd5e24ba4c70e",
-  "size": 2298259,
-  "notes": "Doku: Grenzen und Rückfall beim Verkleinern beschrieben",
-  "publishedAt": "2026-11-12T10:57:53.100Z"
+  "version": "0.0.1-dev.265",
+  "bundle": "medienserver-0.0.1-dev.265.bundle",
+  "sha256": "cc0d3e7dc33126bd34d587de917dbdee6144bc6223c673f87977689003b7121f",
+  "size": 2299777,
+  "notes": "Player: veralteten Kommentar zum Melde-Banner angepasst",
+  "publishedAt": "2026-11-12T11:51:40.389Z"
 }
