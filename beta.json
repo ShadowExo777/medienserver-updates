@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.269",
-  "bundle": "medienserver-0.0.1-dev.269.bundle",
-  "sha256": "defbcbfb1701a6852d271fd0c7f3fa6f2c953ae105664a83c9d51fabadc92fe0",
-  "size": 2299754,
-  "notes": "Problem melden: am Handy bleibt „Senden“ sichtbar",
-  "publishedAt": "2026-11-12T16:53:39.827Z"
+  "version": "0.0.1-dev.270",
+  "bundle": "medienserver-0.0.1-dev.270.bundle",
+  "sha256": "97ecc8403798ca3e782aad3ace5b194d7a305b59c1dfb1674e56ac315d19d496",
+  "size": 2299769,
+  "notes": "Problem melden: Bild springt beim Tipp auf die Fahne nicht mehr zur Seite",
+  "publishedAt": "2026-11-12T17:30:11.284Z"
 }
