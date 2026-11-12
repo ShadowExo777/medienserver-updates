@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.238",
-  "bundle": "medienserver-0.0.1-dev.238.bundle",
-  "sha256": "8bb8ab265c77406489c3aee12d2294f546a670a989fbbef1fc0186cfcd41131f",
-  "size": 2282053,
-  "notes": "Player: Funde der Prüfung behoben",
-  "publishedAt": "2026-11-12T00:14:09.744Z"
+  "version": "0.0.1-dev.242",
+  "bundle": "medienserver-0.0.1-dev.242.bundle",
+  "sha256": "a32bef07fd94c96c2d6f98787a3b7fd90f8bf3e1fb34eefdcc5fbf93062a43dc",
+  "size": 2286550,
+  "notes": "Problem melden: Banner passt ins Bild, eigener Fortschritt bleibt",
+  "publishedAt": "2026-11-12T00:36:43.952Z"
 }
