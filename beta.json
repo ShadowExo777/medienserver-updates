@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.289",
-  "bundle": "medienserver-0.0.1-dev.289.bundle",
-  "sha256": "25ede22f0afd9cc97e20090b0ab843dd1b9afec973ccf5e5bcb6fb5809c09c62",
-  "size": 2307114,
-  "notes": "Player: ASS-Untertitel ohne transform hochrücken (Bild wurde schwarz)",
-  "publishedAt": "2026-11-12T23:23:24.290Z"
+  "version": "0.0.1-dev.293",
+  "bundle": "medienserver-0.0.1-dev.293.bundle",
+  "sha256": "5625ffed7f9121e2f921650bfbf563a4c86cef8a637e08ccc1c4d01752af348d",
+  "size": 2311414,
+  "notes": "Filmseite: Serien mit Nummer nicht als Fassungen, weniger Anfragen",
+  "publishedAt": "2026-11-12T23:25:13.662Z"
 }
