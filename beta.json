@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.236",
-  "bundle": "medienserver-0.0.1-dev.236.bundle",
-  "sha256": "5ae2afbc65c63d87eb9003dde6cb5e9a158a69df5b6c0cb7a325b4010a191045",
-  "size": 2275982,
-  "notes": "Zuordnen: Karte des Eintrags wie bei der Quelle; Bilder springen nicht mehr",
-  "publishedAt": "2026-11-11T23:44:36.009Z"
+  "version": "0.0.1-dev.238",
+  "bundle": "medienserver-0.0.1-dev.238.bundle",
+  "sha256": "8bb8ab265c77406489c3aee12d2294f546a670a989fbbef1fc0186cfcd41131f",
+  "size": 2282053,
+  "notes": "Player: Funde der Prüfung behoben",
+  "publishedAt": "2026-11-12T00:14:09.744Z"
 }
