@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.295",
-  "bundle": "medienserver-0.0.1-dev.295.bundle",
-  "sha256": "92d1219f1fb07e2d37cf5913a72bcd65bcb8418633989087e33ab84860bd336d",
-  "size": 2312149,
-  "notes": "Alle Folgen: Player in den Blick, Fokus, Staffel bleibt",
-  "publishedAt": "2026-11-12T23:46:06.225Z"
+  "version": "0.0.1-dev.297",
+  "bundle": "medienserver-0.0.1-dev.297.bundle",
+  "sha256": "cd84545e4133c2c979aa6947787e82db8217473d1d84c0d39a0a106baad6ab0e",
+  "size": 2312860,
+  "notes": "Doku: Anzeigename aus Info-Datei und Online-Quelle",
+  "publishedAt": "2026-11-12T23:50:24.482Z"
 }
