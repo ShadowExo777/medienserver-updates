@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.273",
-  "bundle": "medienserver-0.0.1-dev.273.bundle",
-  "sha256": "cf248a7966f26fdabe7874794d96a95329808c43bd62497d48511932e83b672d",
-  "size": 2299831,
-  "notes": "Browser-Tests: Kino-Modus mit Bewegung und lange Meldungen",
-  "publishedAt": "2026-11-12T21:37:38.703Z"
+  "version": "0.0.1-dev.275",
+  "bundle": "medienserver-0.0.1-dev.275.bundle",
+  "sha256": "27d3278cc864c3ed2dcae0adb446f7da92f355e95d41031942aa8dc79f22983f",
+  "size": 2299827,
+  "notes": "Doku: Zwischenspeicher der CI, Fehler beim lokalen Update-Knopf notiert",
+  "publishedAt": "2026-11-12T21:40:41.340Z"
 }
