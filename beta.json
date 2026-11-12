@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.282",
-  "bundle": "medienserver-0.0.1-dev.282.bundle",
-  "sha256": "755ebba753959382db67f53d4b72bdb28b60a24aa0f580401eb01d8deb9b5da0",
-  "size": 2302132,
-  "notes": "Weiterschauen: kurz angespielte Folgen zählen nicht, nächste nicht beendete Folge",
-  "publishedAt": "2026-11-12T22:21:16.361Z"
+  "version": "0.0.1-dev.284",
+  "bundle": "medienserver-0.0.1-dev.284.bundle",
+  "sha256": "555c31e3f6e8bfbd6d459d68d6a10e2fddc482132f33e2baad37810294748c17",
+  "size": 2303481,
+  "notes": "Als Nächstes: Vollbild bleibt, Frage sperrt den Player, Zähler sauber",
+  "publishedAt": "2026-11-12T22:44:05.827Z"
 }
