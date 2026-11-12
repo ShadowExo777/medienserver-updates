@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.250",
-  "bundle": "medienserver-0.0.1-dev.250.bundle",
-  "sha256": "9c6da1c628cfcecbbbce1c3469588ed75f984dfce3d213a010465fb7986b8372",
-  "size": 2294748,
-  "notes": "Player: weiterspielen nach Sprüngen, Erneut versuchen an der Startstelle",
-  "publishedAt": "2026-11-12T02:11:53.940Z"
+  "version": "0.0.1-dev.258",
+  "bundle": "medienserver-0.0.1-dev.258.bundle",
+  "sha256": "e13ebced3d80291b22099f5c7980af2164b7e4ea8d5577e201edd5e24ba4c70e",
+  "size": 2298259,
+  "notes": "Doku: Grenzen und Rückfall beim Verkleinern beschrieben",
+  "publishedAt": "2026-11-12T10:57:53.100Z"
 }
