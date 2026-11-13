@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.330",
-  "bundle": "medienserver-0.0.1-dev.330.bundle",
-  "sha256": "118bde0af7829da5cdcaa7872365d3e0eb2ee0935d668d7eac0228faecce32a3",
-  "size": 2330173,
-  "notes": "Doku: Fenster für Tonspur und Untertitel, Bühne ohne Abschneiden",
-  "publishedAt": "2026-11-13T12:36:21.123Z"
+  "version": "0.0.1-dev.334",
+  "bundle": "medienserver-0.0.1-dev.334.bundle",
+  "sha256": "54e8dd2c3f9d547f34a8ee9b12bc3920df5c37bd6a478469176d2769aa45f299",
+  "size": 2331064,
+  "notes": "Doku: Hintergrundaufgaben einschalten, Fenster ohne seitliches Scrollen",
+  "publishedAt": "2026-11-13T12:57:28.248Z"
 }
