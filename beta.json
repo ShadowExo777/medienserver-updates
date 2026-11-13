@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.334",
-  "bundle": "medienserver-0.0.1-dev.334.bundle",
-  "sha256": "54e8dd2c3f9d547f34a8ee9b12bc3920df5c37bd6a478469176d2769aa45f299",
-  "size": 2331064,
-  "notes": "Doku: Hintergrundaufgaben einschalten, Fenster ohne seitliches Scrollen",
-  "publishedAt": "2026-11-13T12:57:28.248Z"
+  "version": "0.0.1-dev.338",
+  "bundle": "medienserver-0.0.1-dev.338.bundle",
+  "sha256": "9ea3316b3b7354237cc66606019ca93bf27292412f913088e61687d5cb17e55b",
+  "size": 2331247,
+  "notes": "Browsertests: Player und Aussehen warten auf den richtigen Moment",
+  "publishedAt": "2026-11-13T13:26:22.379Z"
 }
