@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.313",
-  "bundle": "medienserver-0.0.1-dev.313.bundle",
-  "sha256": "9baec713ede11252968e2f0bbeaa07f40042be45534905b444937dc5dfca92a0",
-  "size": 2326811,
-  "notes": "Doku: Vorschaubilder und Hintergrundaufgaben",
-  "publishedAt": "2026-11-13T01:35:21.930Z"
+  "version": "0.0.1-dev.317",
+  "bundle": "medienserver-0.0.1-dev.317.bundle",
+  "sha256": "5e3324581828b84c1027388a98b8f3ca9f3e8b743f1781f95e6ae5e668911e56",
+  "size": 2327682,
+  "notes": "Doku: Bilder als AVIF",
+  "publishedAt": "2026-11-13T09:39:54.201Z"
 }
