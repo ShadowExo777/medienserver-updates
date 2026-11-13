@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.324",
-  "bundle": "medienserver-0.0.1-dev.324.bundle",
-  "sha256": "3b9b4eba27e27a1af29f0b7259270a300a0d996afa08db54fa1596395b4e3127",
-  "size": 2327614,
-  "notes": "Doku: sparsamerer Wechsel hell/dunkel",
-  "publishedAt": "2026-11-13T11:37:04.257Z"
+  "version": "0.0.1-dev.327",
+  "bundle": "medienserver-0.0.1-dev.327.bundle",
+  "sha256": "c482492ad95d432ce857851a32d5396caaf6137943ca4618ef39daba7d103e6f",
+  "size": 2329778,
+  "notes": "Doku: Vorschaubilder als AVIF und echte Dauer",
+  "publishedAt": "2026-11-13T12:21:33.871Z"
 }
