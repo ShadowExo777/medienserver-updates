@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.317",
-  "bundle": "medienserver-0.0.1-dev.317.bundle",
-  "sha256": "5e3324581828b84c1027388a98b8f3ca9f3e8b743f1781f95e6ae5e668911e56",
-  "size": 2327682,
-  "notes": "Doku: Bilder als AVIF",
-  "publishedAt": "2026-11-13T09:39:54.201Z"
+  "version": "0.0.1-dev.320",
+  "bundle": "medienserver-0.0.1-dev.320.bundle",
+  "sha256": "72a30183079a844ce1ba1b79bdc9b2559b97642a5aaa7884a16f8123aefdb47d",
+  "size": 2327076,
+  "notes": "Doku: Griff statt Entladung",
+  "publishedAt": "2026-11-13T11:16:53.347Z"
 }
