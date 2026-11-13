@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.342",
-  "bundle": "medienserver-0.0.1-dev.342.bundle",
-  "sha256": "cb2a0b25aa9e97452c7c4cb3076f5ad348bc1d04223fb3c5187d86f0c36ceac0",
-  "size": 2333214,
-  "notes": "Doku: Verwandte Titel",
-  "publishedAt": "2026-11-13T13:52:08.767Z"
+  "version": "0.0.1-dev.345",
+  "bundle": "medienserver-0.0.1-dev.345.bundle",
+  "sha256": "e82e4fe54effa5879948c1c999f0485177c63a94fe6fba8f8ef9e4be146b785c",
+  "size": 2335102,
+  "notes": "Doku: Spalte Tonspur immer, nahtloser Tonspur-Wechsel",
+  "publishedAt": "2026-11-13T23:59:01.600Z"
 }
