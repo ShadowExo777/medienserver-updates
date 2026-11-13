@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.338",
-  "bundle": "medienserver-0.0.1-dev.338.bundle",
-  "sha256": "9ea3316b3b7354237cc66606019ca93bf27292412f913088e61687d5cb17e55b",
-  "size": 2331247,
-  "notes": "Browsertests: Player und Aussehen warten auf den richtigen Moment",
-  "publishedAt": "2026-11-13T13:26:22.379Z"
+  "version": "0.0.1-dev.342",
+  "bundle": "medienserver-0.0.1-dev.342.bundle",
+  "sha256": "cb2a0b25aa9e97452c7c4cb3076f5ad348bc1d04223fb3c5187d86f0c36ceac0",
+  "size": 2333214,
+  "notes": "Doku: Verwandte Titel",
+  "publishedAt": "2026-11-13T13:52:08.767Z"
 }
