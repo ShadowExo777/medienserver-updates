@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.320",
-  "bundle": "medienserver-0.0.1-dev.320.bundle",
-  "sha256": "72a30183079a844ce1ba1b79bdc9b2559b97642a5aaa7884a16f8123aefdb47d",
-  "size": 2327076,
-  "notes": "Doku: Griff statt Entladung",
-  "publishedAt": "2026-11-13T11:16:53.347Z"
+  "version": "0.0.1-dev.324",
+  "bundle": "medienserver-0.0.1-dev.324.bundle",
+  "sha256": "3b9b4eba27e27a1af29f0b7259270a300a0d996afa08db54fa1596395b4e3127",
+  "size": 2327614,
+  "notes": "Doku: sparsamerer Wechsel hell/dunkel",
+  "publishedAt": "2026-11-13T11:37:04.257Z"
 }
