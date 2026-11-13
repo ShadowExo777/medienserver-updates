@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.327",
-  "bundle": "medienserver-0.0.1-dev.327.bundle",
-  "sha256": "c482492ad95d432ce857851a32d5396caaf6137943ca4618ef39daba7d103e6f",
-  "size": 2329778,
-  "notes": "Doku: Vorschaubilder als AVIF und echte Dauer",
-  "publishedAt": "2026-11-13T12:21:33.871Z"
+  "version": "0.0.1-dev.330",
+  "bundle": "medienserver-0.0.1-dev.330.bundle",
+  "sha256": "118bde0af7829da5cdcaa7872365d3e0eb2ee0935d668d7eac0228faecce32a3",
+  "size": 2330173,
+  "notes": "Doku: Fenster für Tonspur und Untertitel, Bühne ohne Abschneiden",
+  "publishedAt": "2026-11-13T12:36:21.123Z"
 }
