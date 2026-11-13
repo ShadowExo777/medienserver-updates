@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.297",
-  "bundle": "medienserver-0.0.1-dev.297.bundle",
-  "sha256": "cd84545e4133c2c979aa6947787e82db8217473d1d84c0d39a0a106baad6ab0e",
-  "size": 2312860,
-  "notes": "Doku: Anzeigename aus Info-Datei und Online-Quelle",
-  "publishedAt": "2026-11-12T23:50:24.482Z"
+  "version": "0.0.1-dev.301",
+  "bundle": "medienserver-0.0.1-dev.301.bundle",
+  "sha256": "dd371d0c14827fb3d4290e0eaebcbfebbd87a65d66f34daa454a1444cce0f2d3",
+  "size": 2313334,
+  "notes": "Doku: „(erzwungen)“ und Untertitel-Namen ohne Format",
+  "publishedAt": "2026-11-13T00:07:31.627Z"
 }
