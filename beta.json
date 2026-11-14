@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.353",
-  "bundle": "medienserver-0.0.1-dev.353.bundle",
-  "sha256": "2523ddc063046a4020dbf03a078a7f411a95a20c0728c673e91d512dbf521617",
-  "size": 2337063,
-  "notes": "Doku: Speichern im Browser und Packen",
-  "publishedAt": "2026-11-14T00:36:52.085Z"
+  "version": "0.0.1-dev.356",
+  "bundle": "medienserver-0.0.1-dev.356.bundle",
+  "sha256": "f530c37d6647305ef2afe6de042451e9e2ab398d220191050d31b433037f7743",
+  "size": 2337430,
+  "notes": "Doku: „Jetzt starten“ an der Bibliothek",
+  "publishedAt": "2026-11-14T00:44:34.370Z"
 }
