@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.413",
-  "bundle": "medienserver-0.0.1-dev.413.bundle",
-  "sha256": "7905c70aa9825cd41d9d5f776ce4d5605c3dee9c6ddd7a70dddca2f465786ec3",
-  "size": 2371364,
-  "notes": "Doku: Einstellungen → Player und Namen der Tonspuren",
-  "publishedAt": "2026-11-14T16:57:31.502Z"
+  "version": "0.0.1-dev.415",
+  "bundle": "medienserver-0.0.1-dev.415.bundle",
+  "sha256": "4e2c82d1ec8edb413d8b879b7d2ead1c9f2331efc0641e8d9c644c73be04572f",
+  "size": 2371440,
+  "notes": "Regeln: Ausnahme für Markennamen von Tonformaten in der Wortliste",
+  "publishedAt": "2026-11-14T17:22:00.912Z"
 }
