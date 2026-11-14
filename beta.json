@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.378",
-  "bundle": "medienserver-0.0.1-dev.378.bundle",
-  "sha256": "e8dffe2c820a7658432a34d7ee20328d70454aa8a04d44c6bb77fb4536b94007",
-  "size": 2353860,
-  "notes": "Doku: Untertitel aus der Videodatei",
-  "publishedAt": "2026-11-14T12:42:59.042Z"
+  "version": "0.0.1-dev.380",
+  "bundle": "medienserver-0.0.1-dev.380.bundle",
+  "sha256": "48df9b34a82eba82e14ff48cff5a592c4ca87eb3c1dd4e5443ff5d1c839e0ce3",
+  "size": 2354570,
+  "notes": "Doku: Suche nach Filmreihen",
+  "publishedAt": "2026-11-14T13:06:49.599Z"
 }
