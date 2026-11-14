@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.415",
-  "bundle": "medienserver-0.0.1-dev.415.bundle",
-  "sha256": "4e2c82d1ec8edb413d8b879b7d2ead1c9f2331efc0641e8d9c644c73be04572f",
-  "size": 2371440,
-  "notes": "Regeln: Ausnahme für Markennamen von Tonformaten in der Wortliste",
-  "publishedAt": "2026-11-14T17:22:00.912Z"
+  "version": "0.0.1-dev.421",
+  "bundle": "medienserver-0.0.1-dev.421.bundle",
+  "sha256": "a1fc9331b7554eb5c2cedca720b89b497ef62f49969144c0aa5f23487374c4aa",
+  "size": 2374987,
+  "notes": "Doku: Watchlist",
+  "publishedAt": "2026-11-14T18:06:40.928Z"
 }
