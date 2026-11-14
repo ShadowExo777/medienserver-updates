@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.421",
-  "bundle": "medienserver-0.0.1-dev.421.bundle",
-  "sha256": "a1fc9331b7554eb5c2cedca720b89b497ef62f49969144c0aa5f23487374c4aa",
-  "size": 2374987,
-  "notes": "Doku: Watchlist",
-  "publishedAt": "2026-11-14T18:06:40.928Z"
+  "version": "0.0.1-dev.425",
+  "bundle": "medienserver-0.0.1-dev.425.bundle",
+  "sha256": "cf1b479dff1922d6003ee39efa342391a0623fb6912e71b1a8f8e1aba24ea851",
+  "size": 2376834,
+  "notes": "Doku: kompakte Hintergrundaufgaben",
+  "publishedAt": "2026-11-14T23:50:35.668Z"
 }
