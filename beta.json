@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.362",
-  "bundle": "medienserver-0.0.1-dev.362.bundle",
-  "sha256": "5dbafc5809b346ee0ae853f17fd993ac3aba957e8c4fc3fb52c3eadd654bcf8f",
-  "size": 2338744,
-  "notes": "Doku: Abbrechen laufender Anfragen beim Abmelden",
-  "publishedAt": "2026-11-14T01:22:53.716Z"
+  "version": "0.0.1-dev.366",
+  "bundle": "medienserver-0.0.1-dev.366.bundle",
+  "sha256": "6fe70a3c282c6216c54b956bdb83e74fc2264e4d9aa97780b27bcea1c3786cea",
+  "size": 2343842,
+  "notes": "Doku: vorbereitete Bilder, AVIF im Hintergrund, gespeicherte Video-Angaben",
+  "publishedAt": "2026-11-14T02:47:54.308Z"
 }
