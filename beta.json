@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.391",
-  "bundle": "medienserver-0.0.1-dev.391.bundle",
-  "sha256": "a7db36e793841396ce5d2374afb78a9d38c0bb4c25a08a03d2b652b7adf11a82",
-  "size": 2360072,
-  "notes": "Doku: Tonspur-Wechsel wie im Prototyp",
-  "publishedAt": "2026-11-14T15:03:02.553Z"
+  "version": "0.0.1-dev.393",
+  "bundle": "medienserver-0.0.1-dev.393.bundle",
+  "sha256": "d23dc4df0f7a420cb1c0af3df7b64f901761e76a7ce8b4a45ca9f5861a34c49f",
+  "size": 2360277,
+  "notes": "Doku: Hintergrundaufgaben in Bereichen",
+  "publishedAt": "2026-11-14T15:19:48.196Z"
 }
