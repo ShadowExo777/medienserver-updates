@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.345",
-  "bundle": "medienserver-0.0.1-dev.345.bundle",
-  "sha256": "e82e4fe54effa5879948c1c999f0485177c63a94fe6fba8f8ef9e4be146b785c",
-  "size": 2335102,
-  "notes": "Doku: Spalte Tonspur immer, nahtloser Tonspur-Wechsel",
-  "publishedAt": "2026-11-13T23:59:01.600Z"
+  "version": "0.0.1-dev.349",
+  "bundle": "medienserver-0.0.1-dev.349.bundle",
+  "sha256": "e58390a10d46451b406e28aadb0a25334a96d287e728a6414e1d9bea81496ab9",
+  "size": 2334964,
+  "notes": "Doku: Vorschaubilder nur unter Hintergrundaufgaben, „Jetzt starten“",
+  "publishedAt": "2026-11-14T00:16:24.033Z"
 }
