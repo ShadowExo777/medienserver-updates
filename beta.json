@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.402",
-  "bundle": "medienserver-0.0.1-dev.402.bundle",
-  "sha256": "6940ecefe49796785d19577a521eb482c1cedf927b902de182822c833119e6df",
-  "size": 2368478,
-  "notes": "Doku: Prüfung von Untertiteln und Tonspuren, Dateien lesen",
-  "publishedAt": "2026-11-14T16:13:57.970Z"
+  "version": "0.0.1-dev.406",
+  "bundle": "medienserver-0.0.1-dev.406.bundle",
+  "sha256": "c88f131e14217ebbbf09bb5329b9bda4ea8b5cb9c4ca26f98d53c8293f21621b",
+  "size": 2368532,
+  "notes": "Doku: Prüfung zeigt nur Serien mit Lücken, „Erzwungene Untertitel“",
+  "publishedAt": "2026-11-14T16:39:26.482Z"
 }
