@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.366",
-  "bundle": "medienserver-0.0.1-dev.366.bundle",
-  "sha256": "6fe70a3c282c6216c54b956bdb83e74fc2264e4d9aa97780b27bcea1c3786cea",
-  "size": 2343842,
-  "notes": "Doku: vorbereitete Bilder, AVIF im Hintergrund, gespeicherte Video-Angaben",
-  "publishedAt": "2026-11-14T02:47:54.308Z"
+  "version": "0.0.1-dev.370",
+  "bundle": "medienserver-0.0.1-dev.370.bundle",
+  "sha256": "5747fd7b56afafb3749f45f0f4168d3ffd30c60b5b7cc63c5ed7717d1b19cb50",
+  "size": 2345068,
+  "notes": "Doku: „Jetzt erstellen“, nur 10/20 s, ffmpeg erneut suchen",
+  "publishedAt": "2026-11-14T11:09:36.491Z"
 }
