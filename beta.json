@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.380",
-  "bundle": "medienserver-0.0.1-dev.380.bundle",
-  "sha256": "48df9b34a82eba82e14ff48cff5a592c4ca87eb3c1dd4e5443ff5d1c839e0ce3",
-  "size": 2354570,
-  "notes": "Doku: Suche nach Filmreihen",
-  "publishedAt": "2026-11-14T13:06:49.599Z"
+  "version": "0.0.1-dev.383",
+  "bundle": "medienserver-0.0.1-dev.383.bundle",
+  "sha256": "cf925b5485e7f3875e4cfdeb5bb188c9f1399660eabdb95a684b1fd7e0927dcb",
+  "size": 2357868,
+  "notes": "Doku: Gesehen per Hand",
+  "publishedAt": "2026-11-14T13:49:13.101Z"
 }
