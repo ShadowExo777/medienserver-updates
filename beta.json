@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.356",
-  "bundle": "medienserver-0.0.1-dev.356.bundle",
-  "sha256": "f530c37d6647305ef2afe6de042451e9e2ab398d220191050d31b433037f7743",
-  "size": 2337430,
-  "notes": "Doku: „Jetzt starten“ an der Bibliothek",
-  "publishedAt": "2026-11-14T00:44:34.370Z"
+  "version": "0.0.1-dev.362",
+  "bundle": "medienserver-0.0.1-dev.362.bundle",
+  "sha256": "5dbafc5809b346ee0ae853f17fd993ac3aba957e8c4fc3fb52c3eadd654bcf8f",
+  "size": 2338744,
+  "notes": "Doku: Abbrechen laufender Anfragen beim Abmelden",
+  "publishedAt": "2026-11-14T01:22:53.716Z"
 }
