@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.370",
-  "bundle": "medienserver-0.0.1-dev.370.bundle",
-  "sha256": "5747fd7b56afafb3749f45f0f4168d3ffd30c60b5b7cc63c5ed7717d1b19cb50",
-  "size": 2345068,
-  "notes": "Doku: „Jetzt erstellen“, nur 10/20 s, ffmpeg erneut suchen",
-  "publishedAt": "2026-11-14T11:09:36.491Z"
+  "version": "0.0.1-dev.374",
+  "bundle": "medienserver-0.0.1-dev.374.bundle",
+  "sha256": "cde5e33028ee7c90f35483a654d41f35559c31c6c8156de817c6661ea259f380",
+  "size": 2349068,
+  "notes": "Doku: verbesserte Suche, Jahr nur in Klammern",
+  "publishedAt": "2026-11-14T11:33:05.435Z"
 }
