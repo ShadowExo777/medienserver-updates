@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.386",
-  "bundle": "medienserver-0.0.1-dev.386.bundle",
-  "sha256": "fe71dfb43ff3c1534c9c83e06684dec659a11ef68d58e39e3de845fe3a737a01",
-  "size": 2360108,
-  "notes": "Doku: Online-Infos unter Hintergrundaufgaben",
-  "publishedAt": "2026-11-14T14:14:19.048Z"
+  "version": "0.0.1-dev.388",
+  "bundle": "medienserver-0.0.1-dev.388.bundle",
+  "sha256": "63fcde15806e170febbaa7f5d9f11a47c76f649c681b31044dd59d740659cee2",
+  "size": 2361125,
+  "notes": "Doku: Zusatzvideos beim Einlesen",
+  "publishedAt": "2026-11-14T14:50:13.040Z"
 }
