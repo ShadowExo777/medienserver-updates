@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.349",
-  "bundle": "medienserver-0.0.1-dev.349.bundle",
-  "sha256": "e58390a10d46451b406e28aadb0a25334a96d287e728a6414e1d9bea81496ab9",
-  "size": 2334964,
-  "notes": "Doku: Vorschaubilder nur unter Hintergrundaufgaben, „Jetzt starten“",
-  "publishedAt": "2026-11-14T00:16:24.033Z"
+  "version": "0.0.1-dev.353",
+  "bundle": "medienserver-0.0.1-dev.353.bundle",
+  "sha256": "2523ddc063046a4020dbf03a078a7f411a95a20c0728c673e91d512dbf521617",
+  "size": 2337063,
+  "notes": "Doku: Speichern im Browser und Packen",
+  "publishedAt": "2026-11-14T00:36:52.085Z"
 }
