@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.393",
-  "bundle": "medienserver-0.0.1-dev.393.bundle",
-  "sha256": "d23dc4df0f7a420cb1c0af3df7b64f901761e76a7ce8b4a45ca9f5861a34c49f",
-  "size": 2360277,
-  "notes": "Doku: Hintergrundaufgaben in Bereichen",
-  "publishedAt": "2026-11-14T15:19:48.196Z"
+  "version": "0.0.1-dev.402",
+  "bundle": "medienserver-0.0.1-dev.402.bundle",
+  "sha256": "6940ecefe49796785d19577a521eb482c1cedf927b902de182822c833119e6df",
+  "size": 2368478,
+  "notes": "Doku: Prüfung von Untertiteln und Tonspuren, Dateien lesen",
+  "publishedAt": "2026-11-14T16:13:57.970Z"
 }
