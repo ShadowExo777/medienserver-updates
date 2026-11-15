@@ -1,10 +1,10 @@
 {
   "format": 1,
   "channel": "beta",
-  "version": "0.0.1-dev.436",
-  "bundle": "medienserver-0.0.1-dev.436.bundle",
-  "sha256": "603cf2348de94ffd7023945b7807f3cee82b0eb9df5f9031c660c500dd79f75f",
-  "size": 2380866,
-  "notes": "Test: beim Blättern der Reihe auf den Pfeil zurück warten",
-  "publishedAt": "2026-11-15T00:30:58.647Z"
+  "version": "0.0.1-dev.441",
+  "bundle": "medienserver-0.0.1-dev.441.bundle",
+  "sha256": "6099d6b12242da750f9a16aad9aaffc064362ded3e0ac2b0cf82a05f01e8bfdb",
+  "size": 2391100,
+  "notes": "Doku: Intro & Abspann erkennen",
+  "publishedAt": "2026-11-15T11:39:30.058Z"
 }
